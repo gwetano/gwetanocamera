@@ -32,6 +32,7 @@ Aprire il file `camera.ino` con Arduino IDE e:
 
 ## Modello 3D della Fotocamera
 Nella cartella `model` è presente un file STL con il **case personalizzato** per l'ESP32-CAM, pronto per la stampa 3D.
+![Modello](model/model-preview.png)
 
 ## Licenza
 Questo progetto è distribuito sotto la licenza MIT. Sentiti libero di modificarlo e migliorarlo!
